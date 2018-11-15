@@ -1,0 +1,7 @@
+C:\Users\УринбасаровД\source\repos\ConnectedLevelPart2\ConnectedLevelPart2\bin\Debug\ConnectedLevelPart2.exe.config
+C:\Users\УринбасаровД\source\repos\ConnectedLevelPart2\ConnectedLevelPart2\bin\Debug\ConnectedLevelPart2.exe
+C:\Users\УринбасаровД\source\repos\ConnectedLevelPart2\ConnectedLevelPart2\bin\Debug\ConnectedLevelPart2.pdb
+C:\Users\УринбасаровД\source\repos\ConnectedLevelPart2\ConnectedLevelPart2\obj\Debug\ConnectedLevelPart2.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\ConnectedLevelPart2\ConnectedLevelPart2\obj\Debug\ConnectedLevelPart2.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\ConnectedLevelPart2\ConnectedLevelPart2\obj\Debug\ConnectedLevelPart2.exe
+C:\Users\УринбасаровД\source\repos\ConnectedLevelPart2\ConnectedLevelPart2\obj\Debug\ConnectedLevelPart2.pdb
